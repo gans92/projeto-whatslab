@@ -1,10 +1,11 @@
-## link surge:
+## Projeto-Whatslab
+
+### link surge:
 
 https://gabriel-projeto-whatslab.surge.sh/
 
-### Projeto-Whatslab
+### Funcionalidades
 
-### O que funciona
 - Local onde o usuário consegue escrever o nome do remetente e a mensagem.
 - Quando a mensagem é enviada, os campos são resetados voltando a ficar vazios.
 - A mensagem é enviada tanto ao clicar no botão quanto apertando o botão Enter.
