@@ -1,5 +1,10 @@
 ## Projeto-Whatslab
 
+## Para rodar a aplicação no terminal digite os comandos:
+- npm install
+- npm run start
+- A aplicação abrirá na porta localhost/3000
+
 ### link surge:
 
 https://gabriel-projeto-whatslab.surge.sh/
